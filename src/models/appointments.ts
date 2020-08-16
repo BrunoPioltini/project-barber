@@ -13,4 +13,5 @@ class Appointment {
     this.date = date;
   }
 }
+
 export default Appointment;
